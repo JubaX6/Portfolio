@@ -43,9 +43,10 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                CBT Application
+                Ongoing Project
               </span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center'>This section is ongoing and I will post more projects as I complete them</p>
+
               <div className='pt-8 text-center'>
                 <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -67,9 +68,10 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                CBT Application
+                Ongoing Project
               </span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center'>This section is ongoing and I will post more projects as I complete them</p>
+
               <div className='pt-8 text-center'>
                 <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -91,9 +93,10 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                CBT Application
+                Ongoing Project
               </span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center'>This section is ongoing and I will post more projects as I complete them</p>
+
               <div className='pt-8 text-center'>
                 <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -115,9 +118,10 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                CBT Application
+                Ongoing Project
               </span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center'>This section is ongoing and I will post more projects as I complete them</p>
+
               <div className='pt-8 text-center'>
                 <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -139,9 +143,10 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                CBT Application
+                Ongoing Project
               </span>
-              <p className='text-center'>A CBT web application built with React and Mongodb</p>
+              <p className='text-center'>This section is ongoing and I will post more projects as I complete them</p>
+
               <div className='pt-8 text-center'>
                 <a href='/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
