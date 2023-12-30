@@ -3,7 +3,7 @@ import emailjs from '@emailjs/browser';
 
 const Contact = () => {
   const form = useRef();
-  const [emailSent, setEmailSent] = useState(false);
+  const [emailSent, setEmailSent] = useState(null);
 
   const sendEmail = (e) => {
     e.preventDefault();
@@ -65,8 +65,8 @@ const Contact = () => {
             type='submit'
             value="Let's Collaborate"
           />
-          {emailSent && <p className='text-green-500'>Email sent successfully!</p>}
-          {!emailSent && emailSent !== null && <p className='text-red-500'>Failed to send email. Please try again.</p>}
+          {emailSent === true && <p className='text-green-500'>Email sent successfully!</p>}
+          {emailSent === false && <p className='text-red-500'>Failed to send email. Please try again.</p>}
         </form>
       </div>
     </div>
