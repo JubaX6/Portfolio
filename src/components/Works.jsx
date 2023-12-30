@@ -1,6 +1,7 @@
 import React from 'react';
 import code from '../assets/code2.png';
 import phpDBIcon from "../assets/php-database-icon.jpg"
+import PassManagerIcon from "../assets/PasswordManagerImg.jpg"
 
 const Works = () => {
   return (
@@ -37,23 +38,18 @@ const Works = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${code})` }}
+            style={{ backgroundImage: `url(${PassManagerIcon})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Ongoing Project
+               Password Manager
               </span>
-              <p className='text-center'>This section is ongoing and I will post more projects as I complete them</p>
+              <p className='text-center'>This is a password manager built in python using the Tkinter library for the GUI and Fernet for the encryption</p>
 
               <div className='pt-8 text-center'>
-                <a href='/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
-                  </button>
-                </a>
-                <a href='/'>
+                <a href='https://github.com/JubaX6/PasswordManager'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
